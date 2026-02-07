@@ -115,13 +115,13 @@ gantt
     section Payment Milestone 1: Requirements Review
     Project Kickoff & Planning        :2026-01-28, 7d
     Requirements Review & Validation  :2026-02-01, 21d
-    Requirements Approval             :milestone, 2026-02-28, 0d
+    Requirements Approval            :milestone, 2026-02-28, 0d
 
     section Payment Milestone 2: Implementation & Design Review
     UI/UX Design & Wireframes          :2026-03-01, 30d
     Frontend & Backend Development    :2026-03-15, 60d
     Integration & Usability Testing   :2026-05-01, 30d
-    Design & Implementation Review   :milestone, 2026-05-31, 0d
+    Design & Implementation Review  :milestone, 2026-05-31, 0d
 
     section Payment Milestone 3: Final Delivery
     Final Testing & Bug Fixes         :2026-06-01, 30d
