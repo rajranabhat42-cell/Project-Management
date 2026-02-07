@@ -113,17 +113,17 @@ gantt
     axisFormat  %b %Y
 
     section Payment Milestone 1: Requirements Review
-    Project Kickoff & Planning        :2025-01-28, 7d
-    Requirements Review & Validation  :2025-02-01, 21d
-    Requirements Approval             :milestone, 2025-02-28, 0d
+    Project Kickoff & Planning        :2026-01-28, 7d
+    Requirements Review & Validation  :2026-02-01, 21d
+    Requirements Approval             :milestone, 2026-02-28, 0d
 
     section Payment Milestone 2: Implementation & Design Review
-    UI/UX Design & Wireframes          :2025-03-01, 30d
-    Frontend & Backend Development    :2025-03-15, 60d
-    Integration & Usability Testing   :2025-05-01, 30d
-    Design & Implementation Review   :milestone, 2025-05-31, 0d
+    UI/UX Design & Wireframes          :2026-03-01, 30d
+    Frontend & Backend Development    :2026-03-15, 60d
+    Integration & Usability Testing   :2026-05-01, 30d
+    Design & Implementation Review   :milestone, 2026-05-31, 0d
 
     section Payment Milestone 3: Final Delivery
-    Final Testing & Bug Fixes         :2025-06-01, 30d
-    Deployment & Documentation       :2025-07-01, 21d
-    Final Delivery & Acceptance      :milestone, 2025-07-28, 0d
+    Final Testing & Bug Fixes         :2026-06-01, 30d
+    Deployment & Documentation       :2026-07-01, 21d
+    Final Delivery & Acceptance      :milestone, 2026-07-28, 0d
