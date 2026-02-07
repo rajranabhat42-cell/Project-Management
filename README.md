@@ -108,25 +108,25 @@ This project provides a realistic simulation of managing a software development 
 ## 8. Project Timeline (Mermaid)
 ```mermaid
 gantt
-    title Campus-Connect Project Timeline (6 Months)
+    title Campus-Connect Project Schedule (6 Months)
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
-    %% Milestone 1: Requirements Review
-    section Milestone 1: Requirements Review
-    Project Kickoff & Team Planning       :2026-01-28, 7d
-    Requirements Review & Validation     :2026-02-01, 21d
-    Requirements Approval                 :milestone, 2026-02-28, 0d
+    %% Phase 1: Planning & Requirements
+    section Planning & Requirements
+    Team Kickoff & Initial Planning        :2026-01-28, 5d
+    Gather & Analyze Requirements         :2026-02-02, 18d
+    Approval of Requirements              :milestone, 2026-02-25, 0d
 
-    %% Milestone 2: Implementation & Design Review
-    section Milestone 2: Implementation & Design Review
-    UI/UX Design & Wireframes             :2026-03-01, 30d
-    Frontend & Backend Development        :2026-03-15, 60d
-    Integration & Usability Testing      :2026-05-01, 30d
-    Design & Implementation Review        :milestone, 2026-05-31, 0d
+    %% Phase 2: Design & Development
+    section Design & Development
+    Wireframing & UI Mockups              :2026-02-26, 25d
+    Backend & Frontend Coding             :2026-03-22, 55d
+    Integration Testing                   :2026-05-15, 25d
+    Design Review & Implementation Check  :milestone, 2026-06-09, 0d
 
-    %% Milestone 3: Final Delivery
-    section Milestone 3: Final Delivery
-    Final Testing & Bug Fixes             :2026-06-01, 30d
-    Deployment & Documentation            :2026-07-01, 21d
-    Final Delivery & Stakeholder Acceptance :milestone, 2026-07-28, 0d
+    %% Phase 3: Deployment & Delivery
+    section Deployment & Delivery
+    Final Testing & Debugging             :2026-06-10, 25d
+    Documentation & Deployment            :2026-07-05, 20d
+    Project Handover & Acceptance         :milestone, 2026-07-25, 0d
