@@ -39,7 +39,7 @@ Each phase must be reviewed and approved before the project proceeds to the next
 
 ---
 
-## 4. Requirements Review Phase
+## 3. Requirements Review Phase
 **Purpose:**  
 The goal of this phase is to verify that all functional and non-functional requirements are clearly defined and sufficient to design the Campus-Connect platform.
 
@@ -55,7 +55,7 @@ The goal of this phase is to verify that all functional and non-functional requi
 
 
 ---
-## 5. Project Planning and Task Management
+## 4. Project Planning and Task Management
 
 We use **GitHub Projects** to manage and track all project activities, following an industry-style workflow. This helps the team stay organized and understand the progress of each task.
 
@@ -68,7 +68,7 @@ Tasks are created with clear descriptions, deadlines, and assigned team members 
 
 ---
 
-## 6. Implementation and Design Review Phase
+## 5. Implementation and Design Review Phase
 **Purpose:**  
 To ensure that the system design and initial software implementation align with approved requirements.
 
@@ -84,7 +84,7 @@ To ensure that the system design and initial software implementation align with 
 
 ---
 
-## 7. Final Delivery Phase
+## 6. Final Delivery Phase
 **Purpose:**  
 The final phase focuses on delivering a stable and complete version of Campus-Connect to stakeholders.
 
@@ -94,18 +94,18 @@ The final phase focuses on delivering a stable and complete version of Campus-Co
 
 **Key Activities:**
 - Final testing and bug fixes
-- Deployment to hosting environment
+- Deployment to the hosting environment
 - Completion of user documentation
 - Formal project acceptance
 
 ---
 
-## 8. Reflection
+## 7. Reflection
 This project provides a realistic simulation of managing a software development effort within defined timelines and milestone-based approvals. The scope is appropriate for an academic environment and closely connected to student needs. Overall, this assignment strengthens planning, communication, and coordination skills required in real-world software projects.
 
 ---
 
-## 9. Project Timeline (Mermaid)
+## 8. Project Timeline (Mermaid)
 ```mermaid
 gantt
     title Campus-Connect Project Timeline (6 Months)
