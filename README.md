@@ -3,7 +3,7 @@
 
 ## Project: Campus-Connect  
 **Project Manager:** Raj Bahadur Bhat  
-**Team:** Inshal Zahid, Muhammad Hassnain, Fabio Bustamante Romilo, Rajja  
+**Team:** Inshal Zahid, Muhammad Hassnain, Fabio Bustamante Romilo  
 **Project Duration:** 6 Months (Jan 28 – Jul 28)
 
 ---
