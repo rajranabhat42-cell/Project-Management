@@ -9,18 +9,17 @@
 ---
 
 ## Project Overview
-Campus-Connect is a web-based platform that is made to help college students discover ongoing and upcoming campus events, access all the academic resources, and communicate with different student clubs in one common application. This platform helps students stay engaged by providing relevant events recommendations, all the campus announcements and updates, and available resources.
+Campus-Connect is a web-based platform that is made to help college students discover ongoing and upcoming campus events, access all the academic resources, and communicate with different student clubs in one common application. This platform helps students stay engaged by providing relevant event recommendations, all the campus announcements and updates, and available resources.
 
 ---
 
 ## 1. Skills Assessment
-According to our team meeting, the team members have following skills:
+According to our team meeting, the team members have the following skills:
 
 | Name | Roles | Skills |
 |----|----|----|
 | Inshal Zahid | Frontend Developer | HTML, CSS, JavaScript, React |
 | Muhammad Hassnain | Backend Developer | Python, Django, Database |
-| Rajaa | Full-stack Developer | JavaScript, Node.js, MongoDB |
 | Fabio Bustamante Romilo | UI/UX Designer | Figma, Adobe XD, UI design |
 | Raj (Me) | Project Manager | Planning, Coordination, Testing |
 
@@ -30,7 +29,7 @@ This team is made up of a good mix of front-end developer, back-end developer, a
 ---
 
 ## 2. Project Timeline
-The project duration is 6 months which is divided into three payment-based milestones:
+The project duration is 6 months, which is divided into three payment-based milestones:
 
 - **Month 1 – Requirements Review**
 - **Months 2 to 5 – Implementation and Design Review**
@@ -47,21 +46,25 @@ The goal of this phase is to verify that all functional and non-functional requi
 **Inputs:**  
 - Requirements document provided by the development team
 
-**Key Activities:**
-- Review core features such as event listings, user accounts, notifications, and resource directories
-- Examine non-functional requirements including performance, accessibility, and security
-- Validate user roles including students, event organizers, and administrators
-- Identify unclear or missing requirements
-- Document approval before proceeding to development
+## Key Activities
+- Review all core features such as event listings, user accounts, notifications, and resources  
+- Check non-functional requirements, including performance, accessibility, and security  
+- Validate user roles (students, event organizers, and administrators)  
+- Identify any unclear or missing requirements  
+- Get approval before moving forward with development  
+
 
 ---
-
 ## 5. Project Planning and Task Management
-Project activities are managed using **GitHub Projects** to simulate an industry-style project workflow. The board follows a structured lifecycle:
+
+We use **GitHub Projects** to manage and track all project activities, following an industry-style workflow. This helps the team stay organized and understand the progress of each task.
+
+Our project board follows these stages:
 
 **Backlog → To Do → In Progress → Review → Done**
 
-Tasks are assigned based on team expertise and include descriptions, deadlines, and status tracking to ensure visibility and accountability.
+Tasks are created with clear descriptions, deadlines, and assigned team members based on their skills. This setup makes it easy to track progress, stay accountable, and ensure everyone knows what they are working on.
+
 
 ---
 
