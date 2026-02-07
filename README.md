@@ -101,7 +101,7 @@ The final phase focuses on delivering a stable and complete version of Campus-Co
 ---
 
 ## 7. Reflection
-This project provides a realistic simulation of managing a software development effort within defined timelines and milestone-based approvals. The scope is really suited for an academic environment and closely connected to student needs. Overall, this assignment strengthens planning, communication, and coordination skills required in real-world software projects.
+This project reflects real software development with deadlines and milestone approvals. The scope is really suited for an academic environment and closely connected to student needs. Overall, this assignment strengthens planning, communication, and coordination skills required in real-world software projects.
 
 ---
 
