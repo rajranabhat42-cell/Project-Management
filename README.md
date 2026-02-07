@@ -47,23 +47,23 @@ The goal of this phase is to verify that all functional and non-functional requi
 - Requirements document provided by the development team
 
 ## Key Activities
-- Review all core features such as event listings, user accounts, notifications, and resources  
-- Check non-functional requirements, including performance, accessibility, and security  
-- Validate user roles (students, event organizers, and administrators)  
-- Identify any unclear or missing requirements  
-- Get approval before moving forward with development  
+- Review all core features such as event listings, user accounts, notifications, and resources,  
+- Check non-functional requirements, including performance, accessibility, and security, 
+- Validate user roles (students, event organizers, and administrators), 
+- Identify any unclear or missing requirements,
+- Get approval before moving forward with development 
 
 
 ---
 ## 4. Project Planning and Task Management
 
-We use **GitHub Projects** to manage and track all project activities, following an industry-style workflow. This helps the team stay organized and understand the progress of each task.
+We use **GitHub Projects** to manage and track all our project activities, and follow industry-style workflow. This helps the team stay more organized and understand the progress of each task.
 
 Our project board follows these stages:
 
 **Backlog → To Do → In Progress → Review → Done**
 
-Tasks are created with clear descriptions, deadlines, and assigned team members based on their skills. This setup makes it easy to track progress, stay accountable, and ensure everyone knows what they are working on.
+We’ve set up each task with a description, deadline, and assigned it to the right person based on their skill set. This way, we can track progress easily, and everyone knows what they’re responsible for.
 
 
 ---
@@ -101,7 +101,7 @@ The final phase focuses on delivering a stable and complete version of Campus-Co
 ---
 
 ## 7. Reflection
-This project provides a realistic simulation of managing a software development effort within defined timelines and milestone-based approvals. The scope is appropriate for an academic environment and closely connected to student needs. Overall, this assignment strengthens planning, communication, and coordination skills required in real-world software projects.
+This project provides a realistic simulation of managing a software development effort within defined timelines and milestone-based approvals. The scope is really suited for an academic environment and closely connected to student needs. Overall, this assignment strengthens planning, communication, and coordination skills required in real-world software projects.
 
 ---
 
