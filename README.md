@@ -107,6 +107,8 @@ This project provides a realistic simulation of managing a software development 
 
 ## 8. Project Timeline (Mermaid)
 ```mermaid
+%%{init: {"gantt": {"orientation": "vertical"}}}%%
+
 gantt
     title Campus-Connect Project Schedule (6 Months)
     dateFormat  YYYY-MM-DD
